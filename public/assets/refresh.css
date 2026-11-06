@@ -122,3 +122,19 @@ html{scroll-padding-top:96px}body{background:#061623}
 .visitor-sep{height:14px;width:1px;background:rgba(167,216,223,.28)}
 .visitor-info{color:#a4bdc5;font-size:10px;flex-basis:100%;text-align:right;min-height:13px}
 @media(max-width:760px){.visitor-strip{justify-content:center;gap:12px;padding:15px 0}.visitor-heading{width:100%;text-align:center;margin-right:0}.visitor-info{text-align:center}.visitor-metric strong{font-size:14px}}
+.footer-credit {
+  margin: 22px auto 0;
+  padding: 17px 12px 22px;
+  text-align: center;
+  color: #8ca9b7;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  border-top: 1px solid rgba(164,207,218,.13);
+}
+
+.footer-credit span {
+  color: #bcd5da;
+  letter-spacing: 0;
+  font-weight: 700;
+}
